@@ -38,8 +38,8 @@ Dalam project ini, kami menganalisis data penjualan *Bakso Bakar Nyonya* selama 
   - *Hubungan Linier*: Efektif untuk data yang memiliki hubungan linier.
   - *Prediksi Efisien*: Memberikan prediksi yang akurat untuk pendapatan berdasarkan variabel waktu.
 
-_(![image](https://github.com/user-attachments/assets/9a10505e-4fd9-4bb4-89bc-5890ebb7fd82)
-)_
+![image](https://github.com/user-attachments/assets/9a10505e-4fd9-4bb4-89bc-5890ebb7fd82)
+
 
 **Regresi Polinomial**  
 - **Definisi**: Model ini digunakan untuk menangkap pola data dengan fluktuasi yang lebih kompleks dibandingkan regresi linear, menggunakan jam untuk memprediksi pendapatan.
@@ -49,8 +49,8 @@ _(![image](https://github.com/user-attachments/assets/9a10505e-4fd9-4bb4-89bc-58
   - *Kemampuan Model*: Lebih akurat untuk data yang memiliki pola fluktuasi signifikan.
   - *Visualisasi yang Jelas*: Memudahkan interpretasi hasil melalui kurva prediksi.
 
-_(![image](https://github.com/user-attachments/assets/f5653348-be19-4c92-966e-0a450e156bf5)
-)_
+![image](https://github.com/user-attachments/assets/f5653348-be19-4c92-966e-0a450e156bf5)
+
 
 **Forecasting**  
 - **Definisi**: Model ini digunakan untuk menganalisis data penjualan dan memprediksi tren di masa depan menggunakan metode deret waktu.
@@ -60,39 +60,41 @@ _(![image](https://github.com/user-attachments/assets/f5653348-be19-4c92-966e-0a
   - *Metode Deret Waktu*: Menangkap fluktuasi musiman dan pola dalam data.
   - *Proyeksi Jangka Pendek*: Berguna untuk perencanaan selama 30 hari ke depan.
 
-_(![image](https://github.com/user-attachments/assets/5256e06d-b335-444d-9067-a346fa4cedc2)
-)_
+![image](https://github.com/user-attachments/assets/5256e06d-b335-444d-9067-a346fa4cedc2)
+
 
 ---
 
 ### Visualisasi Data
 
 1. **Grafik Model Regresi Linear**  
-   _(![image](https://github.com/user-attachments/assets/2de90a21-9150-43ca-81dd-3995149fcc32)
-)_
+   ![image](https://github.com/user-attachments/assets/2de90a21-9150-43ca-81dd-3995149fcc32)
+
 
 2. **Grafik Model Regresi Polinomial**  
-   _(![image](https://github.com/user-attachments/assets/d69b8ff3-5bcd-427a-9508-6dfddfcd4518)
-)_
+   ![image](https://github.com/user-attachments/assets/d69b8ff3-5bcd-427a-9508-6dfddfcd4518)
+
 
 3. **Grafik Model Forecasting**  
-   _(![image](https://github.com/user-attachments/assets/5f9531c6-d05a-423f-9423-a10850541a3b)
-)_
+   ![image](https://github.com/user-attachments/assets/5f9531c6-d05a-423f-9423-a10850541a3b)
+
 
 4. **Produk Paling Laris**  
-   _(![image](https://github.com/user-attachments/assets/c7e8c5f1-0fcb-4e35-880d-05d7629d8bd6)
-)_
+   ![image](https://github.com/user-attachments/assets/c7e8c5f1-0fcb-4e35-880d-05d7629d8bd6)
+
 
 5. **Penjualan Harian**  
-   _(![penjualanharian](https://github.com/user-attachments/assets/7102bcaf-123b-4ed2-bb75-6015c219c752)
-)_
+   ![penjualanharian](https://github.com/user-attachments/assets/7102bcaf-123b-4ed2-bb75-6015c219c752)
+
 
 6. **Penjualan Berdasarkan Jam**
-   _(![image](https://github.com/user-attachments/assets/d60fdbc2-fbc5-4de7-af6e-38cb07543420)
-)_
+   ![image](https://github.com/user-attachments/assets/d60fdbc2-fbc5-4de7-af6e-38cb07543420)
+
 
 ---
 
 Untuk harapannya proyek analisis ini bisa membantu Warung Bakso Bakar Nyonya dengan mengidentifikasi produk terlaris dan tren penjualan. Hasilnya menunjukkan bahwa bakso bakar menyumbang 40% dari total penjualan, dengan rata-rata 150 porsi terjual pada akhir pekan. Model forecasting memprediksi peningkatan penjualan bulan depan. Informasi ini memungkinkan warung untuk mengoptimalkan stok, menyesuaikan jam operasional, dan merancang strategi pemasaran yang lebih efektif, meningkatkan efisiensi dan keuntungan.
+
+Link PPT : https://www.canva.com/design/DAGY50qPbqM/LGCQljrGobuo3kD5pu_QxA/edit
 
 

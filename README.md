@@ -38,7 +38,7 @@ Dalam project ini, kami menganalisis data penjualan *Bakso Bakar Nyonya* selama 
   - *Hubungan Linier*: Efektif untuk data yang memiliki hubungan linier.
   - *Prediksi Efisien*: Memberikan prediksi yang akurat untuk pendapatan berdasarkan variabel waktu.
 
-![image](https://github.com/user-attachments/assets/9a10505e-4fd9-4bb4-89bc-5890ebb7fd82)
+![image](https://github.com/user-attachments/assets/12bc55d6-3ecb-4d61-94ab-6e8c477db12f)
 
 
 **Regresi Polinomial**  
@@ -68,7 +68,7 @@ Dalam project ini, kami menganalisis data penjualan *Bakso Bakar Nyonya* selama 
 ### Visualisasi Data
 
 1. **Grafik Model Regresi Linear**  
-   ![image](https://github.com/user-attachments/assets/2de90a21-9150-43ca-81dd-3995149fcc32)
+   ![image](https://github.com/user-attachments/assets/4d178158-f891-4139-98e0-4221a99ab017)
 
 
 2. **Grafik Model Regresi Polinomial**  
